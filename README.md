@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello👋
+My name is Junior. I'm studying Git and GitHub in the DIO Bootcamp.
+I'm very interested to learn more about new technologies.
 
-<!--
-**junior8vii/junior8vii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚At this moment I've studied
 
-Here are some ideas to get you started:
+- HTML 5
+- CSS 3
+- JavaScript ES6
+- Angular 13
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+but I'm not get any job yet
+
+My objective is learn more about front-end and begin a carrer in this area.
+
+My social media
+
+[Instagram](instagram.com/junior8vii/)
+
+[Linkedin](linkedin.com/in/carlos-junior-5432782a7)
