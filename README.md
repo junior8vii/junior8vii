@@ -1,5 +1,5 @@
 # Hello👋
-My name is Junior. I'm a student of web languages like javascript, html and css.
+My name is Junior. I'm a student of web languages.
 I'm very interested to learn more about new technologies.
 
 📚Languages
