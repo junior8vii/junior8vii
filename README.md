@@ -1,5 +1,5 @@
 # Hello👋
-My name is Junior. I'm a front-end student.
+I'm Junior and  I'm a front-end student.
 I'm very interested to learn more about new technologies.
 
 📚Languages
