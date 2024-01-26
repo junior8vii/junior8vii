@@ -9,7 +9,7 @@ I'm very interested to learn more about new technologies.
 - JavaScript ES6
 - Angular 13
 
-My objective is learn more about front-end and begin a carrer as a developer.
+My objective is learn more about front-end and begin a career as a developer.
 
 My social media
 
